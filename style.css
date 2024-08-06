@@ -243,12 +243,12 @@
   }
 
   .right-half p {
-    font-size: 0.8rem; 
+    font-size: 20px; 
     margin-bottom: 10px;
   }
 
   .loading-message {
-    font-size: 0.6rem; 
+    font-size: 18px; 
   }
   .text-container {
     width: 100%;
@@ -260,7 +260,7 @@
     margin-bottom: 20px;
   }
   .loading-message{
-    font-size:12px;
+    font-size:18px;
   }
   .cari {
     height: 250px;
